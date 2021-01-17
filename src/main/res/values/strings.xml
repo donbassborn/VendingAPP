@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Boot Loop Vending Client</string>
+    <string name="updateBtnDesc">update</string>
+</resources>
